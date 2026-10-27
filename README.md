@@ -29,3 +29,4 @@ The application stores profile images in `uploads/profiles/` and post images in 
 
 ## Project structure
 See the included project documentation for the full academic structure and module description.
+# MyStatic_Site
